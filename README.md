@@ -36,7 +36,7 @@ What is the problem? - **Max**
 Solutions/proposals
 * Government's role (duty to allow unemployed workers to be retrained) - **Richard**
   * Frictional/technological unemployment
-  * UBI
+  * Government re-education of un-skilled workers: UBI, negative income tax, job re-training programs.
 * Solution - **Mike**
   * Philosophy
   * Specialized Education
