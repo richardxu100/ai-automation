@@ -22,6 +22,7 @@ What is the problem? - **Max**
 * What robots can do (kind of in what separates humans from robots)- **Erin**
 * Potential results / Effects (on which groups and what industries)
   * Benefits - **Erin**
+   * https://singularityhub.com/2016/07/18/why-the-cost-of-living-is-poised-to-plummet-in-the-next-20-years/
   * Problems
     * Economic - **Mike**
     * Socio cultural effects - **Max**
