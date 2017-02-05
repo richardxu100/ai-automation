@@ -1,0 +1,139 @@
+## Automation/AI Research
+
+#### 1. UBI is a good idea
+* Free market economist Milton Friedman advocated for a negative income tax, Hayek called for a uniform income in 1944. EITC (earned income tax credit, watered down)
+* Welfare is demeaning, because allots a certain amount to food, housing. Citizens should be able to make those decisions for themselves
+* Best way to deal with poverty. SNAP program spends 15.8% of administrative costs, 1.5% in Friedman’s EITC
+* Much harder to take away the current welfare state, but to add to it would be np
+* Even playing field with all having the basic income, like 10k. Distribution of wealth never morally acceptable, but the universal income could alleviate some of this. Structural inequality
+
+**Citation:**
+Griffith, Jeremy. "Libertarians Rightly Support Basic Income for All." The US Libertarian Movement, edited by Michael Ruth, Greenhaven Press, 2016. Ospposing Viewpoints. Opposing Viewpoints in Context, link.galegroup.com/apps/doc/EJ3010983216/OVIC?u=berw2747&xid=8fa29180. Accessed 18 Jan. 2017. Originally published as "The Libertarian Case for the Universal Basic Income," OpedSpace.com, 28 Jan. 2015.
+
+
+#### 2. Universal Income Sucks
+
+* UBI is hailed by so many people, including AI researchers who see it as necessary for the changing world, though it would redefine the relationship between government (provider) and citizens.
+* The safety net ensures that no one starves, freezes, or dies on the hospital steps, but it does not typically offer a full substitute for employment.
+* Could be difficult to implement politically, because a UBI would be for everyone and would require a massive budget increase, unless Social Security and Medicare were to be drastically cut. 
+* It wouldn’t be a great life, and people would be incentivized to work to live a better one (my counterargument). 
+
+**Citation:** 
+Cass, Oren. "The end of work: why a universal basic income is a terrible idea." National Review, 27 June 2016, p. 35+. Opposing Viewpoints in Context, link.galegroup.com/apps/doc/A454730374/OVIC?u=berw2747&xid=165ac24e. Accessed 18 Jan. 2017.
+
+#### 3. 3d Printer Stuff
+
+* The new digital revolution in fabrication will challenge the traditional models of business, aid, and education
+* A part of science fiction like Star Trek. The goal is to create a complete vehicle from the printer, not just the parts. 
+* MIT Center for Bits and Atoms  (CBA), and other groups like the SETC are providing “fab labs” and maker technologies to urban and schools all over the country.
+* Mimic the ribosomes of DNA, 3-d assemblers
+* We should worry about individuals creating weapons of individual destruction, creating a complete gun, or parts. 
+* Lead to a theft of intellectual property. If anyone can make anything anywhere, how will the world be changed?
+
+**Citation:**
+Gershenfeld, Neil. "How to make almost anything: the digital fabrication revolution." Foreign Affairs, Nov.-Dec. 2012, p. 43+. Opposing Viewpoints in Context, link.galegroup.com/apps/doc/A314650288/OVIC?u=berw2747&xid=d25b11b1. Accessed 18 Jan. 2017.
+
+####4. Moore's Law and Digitization
+
+* We now recommend websites and gadgets more frequently when spreading the word about exciting things we’ve come across (used to be books, bands, restaurants).
+* Waze, a GPS system, also uses social data to determine which routes are the best to travel across on at specific times. Gives places of cheap gas, sudden traffic jams, road closings. 
+* Digitization, the turning of a wide variety of info and media (text, sounds, photos, video, instruments) into binary. This results in new ways of acquiring knowledge (science), and higher rates of innovation
+* Digital info is non-rival (can be consumed by multiple people at the same time) and has close to zero marginal cost of reproduction (super easy to duplicate, identical, expensive to produce). 
+* People are offering information free of charge, Wikipedia, Facebook, Siri.
+* Data explosion: internet traffic increased 12 times from 2006 to 2011. Social data also increases the popularity of airbnb, taskrabbit.  
+* Tweets are just as accurate as official reports when tracking the spread of cholera after the 2012 earthquake in Haiti. 
+
+**Citation:**
+Brynjolfsson, Erik, and Andrew McAfee. "The Digitization of Just About Everything." The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. New York: W.W. Norton, 2014. 58-70. Print.
+
+
+Raymond Kurzweil, who heads an AI research firm, agrees with Epstein's timetable, noting that while the brain is 10 million times more powerful than the most powerful computer, the gap is not as daunting as it seems. To support his position, he points to Moore's law, which postulates (correctly, so far) that computing power doubles roughly every 18 months. 4
+
+####5. Technology Against the Middle Class 
+
+* Like hunger games and Elysium with crazy inequality with advancing technology. Luddites. +
+* When workers lose a middle-class manufacturing or clerical job and end up in the service sector, the effect on their wages, benefits and job security contributes to what economists call polarization. In a polarized labor market, a minority of highly skilled employees -- the ones who can leverage technology to be more productive -- effectively replace the labor of others and are paid accordingly. Everyone else sees their fortunes dwindle.
+* The number of tasks the AI can accomplish grows exponentially, while the number of humans behind it grows much more slowly, or stays flat.
+* Now imagine that happening to every automatable task in our economy. A recent McKinsey study released this month concluded that 49% of the time workers spend on their jobs could be supplanted by automation, just by using technology that already exists.
+* We need to use the government and private corporations to alleviate the huge displacement in jobs
+
+**Citation:**
+Mims, Christopher. &quot;Technology's Long-Term Toll on the Middle Class.&quot;<i> Wall Street Journal</i>, 23 Jan 2017, pp. B.1.<i> SIRS Issues Researcher</i>, <a href="http://sks.sirs.com" target="_blank">http://sks.sirs.com</a>. 
+
+####6. Obama on AI and UBI
+
+* Will wipe out the truck driving, delivery industry, billions into self driving cars. 
+* Most people once worked on farms, we’ve adapted to transitions, but this one could be much quicker (difficult and unpleasant).
+* "Oh, we survived the Industrial Revolution, sure we did. But millions of people suffered tremendous hardship," said Oren Etzioni, CEO of the Allen Institute for Artificial Intelligence, in a recent interview with CNNMoney. "This revolution could be faster and sharper and more devastating."
+* The everyday smartphone is more powerful than the computer used to land a person on the moon
+* In second machine age, there is usually one winner (winner-take-all markets) in the digital realm. Google for search engines, Microsoft for desktop operating systems, Facebook social networks. Not like Coke and Pepsi for physical products
+* "Whether a universal income is the right model -- is it gonna be accepted by a broad base of people? -- that's a debate that we'll be having over the next 10 or 20 years," Obama said.
+
+**Citation:** 
+McFarland, Matt. &quot;Obama Warns of the Danger of AI Wiping Out Jobs.&quot;<i> CNN Wire Service</i>, 12 Oct 2016,<i> SIRS Issues Researcher</i>, <a href="http://sks.sirs.com" target="_blank">http://sks.sirs.com</a>. 
+
+####7. Big Companies Making Sure AI isn't crazy
+* Partnership on AI by Amazon, Facebook, Google, IBM and Microsoft, quell public fear of artificial intelligence and corporate anxiety of over the prospect of gov.t regulation of these new technologies
+* Purpose isn’t to force self-regulation, but to promote best-practices and public understanding, avoid using it in warfare
+
+**Citation:** 
+Markoff, John. &quot;Protecting Humans and Jobs from Robots is 5 Tech Giants' Goal.&quot;<i> New York Times</i>, 29 Sep 2016,<i> SIRS Issues Researcher</i>, <a href="http://sks.sirs.com" target="_blank">http://sks.sirs.com</a>. 
+
+
+####8. Maney, Kevin. &quot;How Technology Will Solve the Planet's Hardest Problems.&quot;<i> Newsweek</i>, Jul 2016<i> SIRS Issues Researcher</i>, <a href="http://sks.sirs.com" target="_blank">http://sks.sirs.com</a>. 
+
+* Increasing standard of living and free things (khan academy)
+
+####9. Maney, Kevin. &quot;How Artificial Intelligence and Robots Will Radically Transform the..&quot;<i> Newsweek</i>, Dec 2016<i> SIRS Issues Researcher</i>, <a href="http://sks.sirs.com" target="_blank">http://sks.sirs.com</a>. 
+
+
+**10**. Politics of AI and Experts
+
+* Without educating the old and new class of workers whose jobs are being automated, we’ll have increasing polarization of skills and income. 
+* Increasing polarization = stabilizing force in politics, the middle class, is also shrinking. 
+* The experts who tell us to not fear, don’t have jobs that’ll be replaced. They come from privileged areas. 
+
+**Citation:**
+Roff, Heather. "The Politics of Artificial Intelligence and Automation." Duck of Minerva. Duck of Minerva, 7 Aug. 2014. Web. 29 Jan. 2017.
+
+**11**https://www.theguardian.com/commentisfree/2013/jul/24/obama-address-shrinking-middle-class
+
+####12. MIT middle class on democracy
+
+* Middle class acts as a buffer between the rich and poor, limits redistribution of wealth. With highly unequal societies, redistribution policies would have to be really high/severe, and the rich wouldn’t want to do this so they’d try to repress democracy (limit the vote of the poor)
+* Middle class will play an important role in the emergence of democracy in a number of ways: first, they can be the driving force for democracy, especially for the emergence of partial democracy; second, they can be in favor of the poor being included in the political arena, facilitating a move from partial to full democracy (less to lose); third, and perhaps most interesting, they can act as a buffer between the rich and the poor by ensuring that democracy will not be very redistributive, and therefore dissuading the rich from using repression; and finally, when they are in power together with the rich, they can play the role of soft-liners arguing against repression and in favor of a transition to democracy, which is less costly for them than it is for the rich (since they have less to lose from redistribution).
+* Rich must satisfy the poor to avoid a revolution, or use repression. Repression is more likely when the middle class is poorer or smaller
+* Therefore, democratization brought the middle classes as well as the poor into political power, and in this way, the middle class played an important role in affecting the trade-off between repression and democratization: with a large and relatively rich middle class, the rich anticipated that they would not face high taxes in democracy, and were more likely to democratize rather than repress.
+* Risk of repression is revolution.
+* This is for the obvious reason that when the middle class are affluent and strong, democracy is less costly for the rich and they are less willing to risk repression - with the downside of being wiped out in a revolution. This result is in turn is important because it gives us one potential explanation for why revolutions have typically taken place in relatively agrarian societies where there is typically a very anemic middle class.
+
+**Citation:**
+Acemoglu, Daron, and James A. Robinson. “Political Origins of Dictatorship and Democracy. Chapter 8: The Role of the Middle Class.” Massachusetts Institute of Technology, Jan. 2003, web.mit.edu/14.773/www/Chapter%208.pdf.
+
+http://www.pitt.edu/~kmm229/DebsMorrison(2015).pdf
+
+####13. More UBI good stuff
+
+* Universal income has support from Milton Friedman and Charles Murray (conservatives)
+* Stuff about utopia. Conservatives hate means testing, the huge bureaucracy
+* Share the wealth idea for Huey P. Long in his presidential campaign, LBJ war on poverty, Nixon supported a negative income tax, 
+* Many reasons have all been invoked in Basic Income's favor, including liberty and equality, efficiency and community, common ownership of the Earth and equal sharing in the benefits of technical progress, the flexibility of the labor market and the dignity of the poor, the fight against inhumane working conditions, against the desertification of the countryside and against interregional inequalities, the viability of cooperatives and the promotion of adult education, autonomy from bosses, husbands and bureaucrats.
+* Elon Musk and other thought leaders believe that advances in AI, automation, and robotics will leave millions out of work, routine work is gone so more humans will become redundant 
+* Guy Standing, a British economist who co-founded BIEN. Believes basic income is necessary because of the high/chronic amount of economic insecurity. Fuels populist candidates who have far-right policies. Trump and EU show that leaders need to update capitalism to assuage those left behind and share spoils more equitably
+
+**Citation:**
+Stratfor. "Universal Basic Income and Radical Populism: Making the Link." Forbes. Forbes Magazine, 05 Jan. 2017. Web. 29 Jan. 2017.
+
+[http://sfmagazine.com/technotes/july-2015-autonomous-warfare-ban-discussed-at-international-ai-conference/](http://sfmagazine.com/technotes/july-2015-autonomous-warfare-ban-discussed-at-international-ai-conference/)
+
+#### 14. Brynjolfsson, Erik, and Andrew McAfee. "Beyond GDP." The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. New York: W.W. Norton, 2014. 108-24. Print.
+
+#### 15. Brynjolfsson, Erik, and Andrew McAfee. "The Spread." The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. New York: W.W. Norton, 2014. 126-46. Print.
+
+#### 16. Yu, Roger. "Trade: A Rundown on Who Wins and Who Loses." USA Today. Gannett Satellite Information Network, 21 Mar. 2016. Web. 29 Jan. 2017.
+
+#### 17. "Automation and Anxiety." The Economist. The Economist Newspaper, 25 June 2016. Web. 29 Jan. 2017.
+
+#### 18. "Truck Driving May Be America's Most Popular Job -." Truck Driving May Be America's Most Popular Job -. Bennett International Group, LLC, 10 Feb. 2015. Web. 29 Jan. 2017.
+
+#### 19. Weller, Chris. "Giving People Free Money Could Be the Only Solution When Robots Finally Take Our Jobs." Business Insider. Business Insider, 08 Apr. 2016. Web. 29 Jan. 2017.
