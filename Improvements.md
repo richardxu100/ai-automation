@@ -2,7 +2,7 @@
 ## Group
 * Stand in a line so we don't block each other.
 * Organization.
-* Include more facts.
+* Include more facts/research/authors.
 * Better slide formatting.
 * Weak argument
 

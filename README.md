@@ -19,7 +19,7 @@ What is the problem? - **Max**
 ## Background: Benefits and Problems (3:30)
 * Past examples
   * (Industrial revolution) - **Mike**
-* What robots can do (kind of in what separates humans from robots)- **Erin**
+* How is this revolution different?- **Erin**
 * Potential results / Effects (on which groups and what industries)
   * Benefits - **Erin**
     * https://singularityhub.com/2016/07/18/why-the-cost-of-living-is-poised-to-plummet-in-the-next-20-years/
@@ -34,7 +34,7 @@ What is the problem? - **Max**
 * Importance of Education- **Max**
   * How it can separate humans from robots
 Solutions/proposals
-* Government's role (duty to allow unemployed workers to be retrained) - **Richard**
+* Government's role (duty to allow unemployed workers to be retrained, re-education) - **Richard**
   * Frictional/technological unemployment
   * Government re-education of un-skilled workers: UBI, negative income tax, job re-training programs.
 * Solution - **Mike**
@@ -42,8 +42,9 @@ Solutions/proposals
   * Specialized Education
 * Solutions impact - **Erin**
 
-## Concessions (:30)
+## Conclusions (:30)
 Weaknesses/Concessions/Alternate Viewpoints - **Richard**
+* Qualifier (we can't predict the future, but we can prepare for it)
 * Unpredictability of the future
 * Lack of Academic Sources
 
